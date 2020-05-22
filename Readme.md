@@ -6,37 +6,6 @@
 
 
 
-
-
-<div style="text-align:center;font-size:48px">Etude Du Covid-19</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-
-<div style="font-size:30px">Table Des Matières</div>
-[TOC]
-
-
-
----
-
-
-
-
-
 # Environnement du travail
 
 ### Anaconda
