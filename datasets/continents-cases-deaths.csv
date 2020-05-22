@@ -1,0 +1,564 @@
+Entity,Code,Date,Total confirmed deaths (deaths),Total confirmed cases (cases)
+Africa,,31-Dec-19,0,0
+Africa,,1-Jan-20,0,0
+Africa,,2-Jan-20,0,0
+Africa,,3-Jan-20,0,0
+Africa,,4-Jan-20,0,0
+Africa,,5-Jan-20,0,0
+Africa,,6-Jan-20,0,0
+Africa,,7-Jan-20,0,0
+Africa,,8-Jan-20,0,0
+Africa,,9-Jan-20,0,0
+Africa,,10-Jan-20,0,0
+Africa,,11-Jan-20,0,0
+Africa,,12-Jan-20,0,0
+Africa,,13-Jan-20,0,0
+Africa,,14-Jan-20,0,0
+Africa,,15-Jan-20,0,0
+Africa,,16-Jan-20,0,0
+Africa,,17-Jan-20,0,0
+Africa,,18-Jan-20,0,0
+Africa,,19-Jan-20,0,0
+Africa,,20-Jan-20,0,0
+Africa,,21-Jan-20,0,0
+Africa,,22-Jan-20,0,0
+Africa,,23-Jan-20,0,0
+Africa,,24-Jan-20,0,0
+Africa,,25-Jan-20,0,0
+Africa,,26-Jan-20,0,0
+Africa,,27-Jan-20,0,0
+Africa,,28-Jan-20,0,0
+Africa,,29-Jan-20,0,0
+Africa,,30-Jan-20,0,0
+Africa,,31-Jan-20,0,0
+Africa,,1-Feb-20,0,0
+Africa,,2-Feb-20,0,0
+Africa,,3-Feb-20,0,0
+Africa,,4-Feb-20,0,0
+Africa,,5-Feb-20,0,0
+Africa,,6-Feb-20,0,0
+Africa,,7-Feb-20,0,0
+Africa,,8-Feb-20,0,0
+Africa,,9-Feb-20,0,0
+Africa,,10-Feb-20,0,0
+Africa,,11-Feb-20,0,0
+Africa,,12-Feb-20,0,0
+Africa,,13-Feb-20,0,0
+Africa,,14-Feb-20,0,0
+Africa,,15-Feb-20,0,1
+Africa,,16-Feb-20,0,1
+Africa,,17-Feb-20,0,1
+Africa,,18-Feb-20,0,1
+Africa,,19-Feb-20,0,1
+Africa,,20-Feb-20,0,1
+Africa,,21-Feb-20,0,1
+Africa,,22-Feb-20,0,1
+Africa,,23-Feb-20,0,1
+Africa,,24-Feb-20,0,1
+Africa,,25-Feb-20,0,1
+Africa,,26-Feb-20,0,2
+Africa,,27-Feb-20,0,2
+Africa,,28-Feb-20,0,3
+Africa,,29-Feb-20,0,3
+Africa,,1-Mar-20,0,3
+Africa,,2-Mar-20,0,6
+Africa,,3-Mar-20,0,9
+Africa,,4-Mar-20,0,11
+Africa,,5-Mar-20,0,20
+Africa,,6-Mar-20,0,29
+Africa,,7-Mar-20,0,43
+Africa,,8-Mar-20,0,44
+Africa,,9-Mar-20,1,83
+Africa,,10-Mar-20,1,95
+Africa,,11-Mar-20,1,105
+Africa,,12-Mar-20,2,118
+Africa,,13-Mar-20,4,158
+Africa,,14-Mar-20,5,202
+Africa,,15-Mar-20,6,239
+Africa,,16-Mar-20,8,324
+Africa,,17-Mar-20,8,404
+Africa,,18-Mar-20,12,494
+Africa,,19-Mar-20,16,634
+Africa,,20-Mar-20,17,736
+Africa,,21-Mar-20,24,967
+Africa,,22-Mar-20,30,1131
+Africa,,23-Mar-20,42,1290
+Africa,,24-Mar-20,52,1697
+Africa,,25-Mar-20,62,2170
+Africa,,26-Mar-20,68,2652
+Africa,,27-Mar-20,80,3216
+Africa,,28-Mar-20,98,3700
+Africa,,29-Mar-20,121,4079
+Africa,,30-Mar-20,141,4572
+Africa,,31-Mar-20,162,5064
+Africa,,1-Apr-20,180,5494
+Africa,,2-Apr-20,224,6248
+Africa,,3-Apr-20,251,6744
+Africa,,4-Apr-20,283,7323
+Africa,,5-Apr-20,379,8489
+Africa,,6-Apr-20,434,9175
+Africa,,7-Apr-20,477,9802
+Africa,,8-Apr-20,523,10524
+Africa,,9-Apr-20,573,11446
+Africa,,10-Apr-20,630,12280
+Africa,,11-Apr-20,691,12952
+Asia,,31-Dec-19,0,27
+Asia,,1-Jan-20,0,27
+Asia,,2-Jan-20,0,27
+Asia,,3-Jan-20,0,44
+Asia,,4-Jan-20,0,44
+Asia,,5-Jan-20,0,59
+Asia,,6-Jan-20,0,59
+Asia,,7-Jan-20,0,59
+Asia,,8-Jan-20,0,59
+Asia,,9-Jan-20,0,59
+Asia,,10-Jan-20,0,59
+Asia,,11-Jan-20,1,59
+Asia,,12-Jan-20,1,59
+Asia,,13-Jan-20,1,60
+Asia,,14-Jan-20,1,60
+Asia,,15-Jan-20,2,61
+Asia,,16-Jan-20,2,61
+Asia,,17-Jan-20,2,66
+Asia,,18-Jan-20,2,83
+Asia,,19-Jan-20,3,219
+Asia,,20-Jan-20,3,239
+Asia,,21-Jan-20,6,391
+Asia,,22-Jan-20,17,533
+Asia,,23-Jan-20,17,630
+Asia,,24-Jan-20,26,896
+Asia,,25-Jan-20,41,1344
+Asia,,26-Jan-20,56,2013
+Asia,,27-Jan-20,81,2807
+Asia,,28-Jan-20,106,4572
+Asia,,29-Jan-20,132,6047
+Asia,,30-Jan-20,170,7799
+Asia,,31-Jan-20,213,9793
+Asia,,1-Feb-20,259,11903
+Asia,,2-Feb-20,305,14507
+Asia,,3-Feb-20,362,17321
+Asia,,4-Feb-20,427,20561
+Asia,,5-Feb-20,493,24456
+Asia,,6-Feb-20,565,28195
+Asia,,7-Feb-20,638,31367
+Asia,,8-Feb-20,724,34800
+Asia,,9-Feb-20,813,37418
+Asia,,10-Feb-20,910,40399
+Asia,,11-Feb-20,1018,42894
+Asia,,12-Feb-20,1115,44925
+Asia,,13-Feb-20,1370,60074
+Asia,,14-Feb-20,1383,64240
+Asia,,15-Feb-20,1526,66798
+Asia,,16-Feb-20,1668,68826
+Asia,,17-Feb-20,1774,70892
+Asia,,18-Feb-20,1872,72788
+Asia,,19-Feb-20,2011,74564
+Asia,,20-Feb-20,2125,75017
+Asia,,21-Feb-20,2244,75996
+Asia,,22-Feb-20,2356,77044
+Asia,,23-Feb-20,2458,77989
+Asia,,24-Feb-20,2613,78402
+Asia,,25-Feb-20,2688,79077
+Asia,,26-Feb-20,2746,79833
+Asia,,27-Feb-20,2782,80819
+Asia,,28-Feb-20,2834,81739
+Asia,,29-Feb-20,2892,83264
+Asia,,1-Mar-20,2940,84669
+Asia,,2-Mar-20,2999,85997
+Asia,,3-Mar-20,3049,87270
+Asia,,4-Mar-20,3101,88784
+Asia,,5-Mar-20,3150,90037
+Asia,,6-Mar-20,3204,91394
+Asia,,7-Mar-20,3251,93356
+Asia,,8-Mar-20,3305,94981
+Asia,,9-Mar-20,3383,96146
+Asia,,10-Mar-20,3448,97058
+Asia,,11-Mar-20,3534,98403
+Asia,,12-Mar-20,3622,100036
+Asia,,13-Mar-20,3710,101409
+Asia,,14-Mar-20,3826,103230
+Asia,,15-Mar-20,3937,105037
+Asia,,16-Mar-20,4072,106980
+Asia,,17-Mar-20,4222,108803
+Asia,,18-Mar-20,4384,110748
+Asia,,19-Mar-20,4551,112856
+Asia,,20-Mar-20,4738,115259
+Asia,,21-Mar-20,4915,117799
+Asia,,22-Mar-20,5089,120778
+Asia,,23-Mar-20,5276,123514
+Asia,,24-Mar-20,5448,126722
+Asia,,25-Mar-20,5607,130855
+Asia,,26-Mar-20,5800,135470
+Asia,,27-Mar-20,6041,140851
+Asia,,28-Mar-20,6244,147900
+Asia,,29-Mar-20,6470,155312
+Asia,,30-Mar-20,6670,162410
+Asia,,31-Mar-20,6889,170010
+Asia,,1-Apr-20,7118,177657
+Asia,,2-Apr-20,7402,186211
+Asia,,3-Apr-20,7697,195087
+Asia,,4-Apr-20,7847,201388
+Asia,,5-Apr-20,8291,213719
+Asia,,6-Apr-20,8619,223925
+Asia,,7-Apr-20,8898,233291
+Asia,,8-Apr-20,9214,242914
+Asia,,9-Apr-20,9502,252436
+Asia,,10-Apr-20,9853,262614
+Asia,,11-Apr-20,10182,273663
+Europe,,31-Dec-19,0,0
+Europe,,1-Jan-20,0,0
+Europe,,2-Jan-20,0,0
+Europe,,3-Jan-20,0,0
+Europe,,4-Jan-20,0,0
+Europe,,5-Jan-20,0,0
+Europe,,6-Jan-20,0,0
+Europe,,7-Jan-20,0,0
+Europe,,8-Jan-20,0,0
+Europe,,9-Jan-20,0,0
+Europe,,10-Jan-20,0,0
+Europe,,11-Jan-20,0,0
+Europe,,12-Jan-20,0,0
+Europe,,13-Jan-20,0,0
+Europe,,14-Jan-20,0,0
+Europe,,15-Jan-20,0,0
+Europe,,16-Jan-20,0,0
+Europe,,17-Jan-20,0,0
+Europe,,18-Jan-20,0,0
+Europe,,19-Jan-20,0,0
+Europe,,20-Jan-20,0,0
+Europe,,21-Jan-20,0,0
+Europe,,22-Jan-20,0,0
+Europe,,23-Jan-20,0,0
+Europe,,24-Jan-20,0,0
+Europe,,25-Jan-20,0,3
+Europe,,26-Jan-20,0,3
+Europe,,27-Jan-20,0,3
+Europe,,28-Jan-20,0,4
+Europe,,29-Jan-20,0,8
+Europe,,30-Jan-20,0,10
+Europe,,31-Jan-20,0,17
+Europe,,1-Feb-20,0,23
+Europe,,2-Feb-20,0,24
+Europe,,3-Feb-20,0,25
+Europe,,4-Feb-20,0,28
+Europe,,5-Feb-20,0,28
+Europe,,6-Feb-20,0,28
+Europe,,7-Feb-20,0,30
+Europe,,8-Feb-20,0,36
+Europe,,9-Feb-20,0,37
+Europe,,10-Feb-20,0,38
+Europe,,11-Feb-20,0,42
+Europe,,12-Feb-20,0,44
+Europe,,13-Feb-20,0,45
+Europe,,14-Feb-20,0,45
+Europe,,15-Feb-20,1,45
+Europe,,16-Feb-20,1,45
+Europe,,17-Feb-20,1,46
+Europe,,18-Feb-20,1,46
+Europe,,19-Feb-20,1,46
+Europe,,20-Feb-20,1,46
+Europe,,21-Feb-20,1,46
+Europe,,22-Feb-20,1,60
+Europe,,23-Feb-20,3,122
+Europe,,24-Feb-20,3,179
+Europe,,25-Feb-20,7,277
+Europe,,26-Feb-20,12,382
+Europe,,27-Feb-20,14,480
+Europe,,28-Feb-20,19,819
+Europe,,29-Feb-20,23,1120
+Europe,,1-Mar-20,31,1524
+Europe,,2-Mar-20,38,2203
+Europe,,3-Mar-20,56,2701
+Europe,,4-Mar-20,85,3361
+Europe,,5-Mar-20,113,4283
+Europe,,6-Mar-20,161,5669
+Europe,,7-Mar-20,215,7522
+Europe,,8-Mar-20,253,9473
+Europe,,9-Mar-20,399,11975
+Europe,,10-Mar-20,536,15346
+Europe,,11-Mar-20,716,18032
+Europe,,12-Mar-20,951,22897
+Europe,,13-Mar-20,1201,29340
+Europe,,14-Mar-20,1513,36155
+Europe,,15-Mar-20,1744,44835
+Europe,,16-Mar-20,2337,54328
+Europe,,17-Mar-20,2764,63737
+Europe,,18-Mar-20,3359,74161
+Europe,,19-Mar-20,4089,86557
+Europe,,20-Mar-20,4936,107491
+Europe,,21-Mar-20,5988,126885
+Europe,,22-Mar-20,7402,149253
+Europe,,23-Mar-20,8711,168879
+Europe,,24-Mar-20,10148,192389
+Europe,,25-Mar-20,11932,215876
+Europe,,26-Mar-20,13875,244778
+Europe,,27-Mar-20,16009,279227
+Europe,,28-Mar-20,18628,314217
+Europe,,29-Mar-20,21292,348634
+Europe,,30-Mar-20,23806,378385
+Europe,,31-Mar-20,26506,407298
+Europe,,1-Apr-20,29862,444541
+Europe,,2-Apr-20,33311,480702
+Europe,,3-Apr-20,36630,515383
+Europe,,4-Apr-20,41739,553307
+Europe,,5-Apr-20,45744,587850
+Europe,,6-Apr-20,48689,618204
+Europe,,7-Apr-20,51957,645273
+Europe,,8-Apr-20,56819,674103
+Europe,,9-Apr-20,60595,707774
+Europe,,10-Apr-20,65180,743197
+Europe,,11-Apr-20,69429,777239
+North America,,31-Dec-19,0,0
+North America,,1-Jan-20,0,0
+North America,,2-Jan-20,0,0
+North America,,3-Jan-20,0,0
+North America,,4-Jan-20,0,0
+North America,,5-Jan-20,0,0
+North America,,6-Jan-20,0,0
+North America,,7-Jan-20,0,0
+North America,,8-Jan-20,0,0
+North America,,9-Jan-20,0,0
+North America,,10-Jan-20,0,0
+North America,,11-Jan-20,0,0
+North America,,12-Jan-20,0,0
+North America,,13-Jan-20,0,0
+North America,,14-Jan-20,0,0
+North America,,15-Jan-20,0,0
+North America,,16-Jan-20,0,0
+North America,,17-Jan-20,0,0
+North America,,18-Jan-20,0,0
+North America,,19-Jan-20,0,0
+North America,,20-Jan-20,0,0
+North America,,21-Jan-20,0,1
+North America,,22-Jan-20,0,1
+North America,,23-Jan-20,0,1
+North America,,24-Jan-20,0,1
+North America,,25-Jan-20,0,2
+North America,,26-Jan-20,0,3
+North America,,27-Jan-20,0,6
+North America,,28-Jan-20,0,7
+North America,,29-Jan-20,0,8
+North America,,30-Jan-20,0,8
+North America,,31-Jan-20,0,9
+North America,,1-Feb-20,0,11
+North America,,2-Feb-20,0,12
+North America,,3-Feb-20,0,15
+North America,,4-Feb-20,0,15
+North America,,5-Feb-20,0,16
+North America,,6-Feb-20,0,17
+North America,,7-Feb-20,0,19
+North America,,8-Feb-20,0,19
+North America,,9-Feb-20,0,19
+North America,,10-Feb-20,0,19
+North America,,11-Feb-20,0,20
+North America,,12-Feb-20,0,20
+North America,,13-Feb-20,0,21
+North America,,14-Feb-20,0,22
+North America,,15-Feb-20,0,23
+North America,,16-Feb-20,0,23
+North America,,17-Feb-20,0,23
+North America,,18-Feb-20,0,23
+North America,,19-Feb-20,0,23
+North America,,20-Feb-20,0,23
+North America,,21-Feb-20,0,25
+North America,,22-Feb-20,0,44
+North America,,23-Feb-20,0,44
+North America,,24-Feb-20,0,44
+North America,,25-Feb-20,0,64
+North America,,26-Feb-20,0,64
+North America,,27-Feb-20,0,71
+North America,,28-Feb-20,0,74
+North America,,29-Feb-20,0,84
+North America,,1-Mar-20,1,93
+North America,,2-Mar-20,2,119
+North America,,3-Mar-20,6,137
+North America,,4-Mar-20,9,162
+North America,,5-Mar-20,11,199
+North America,,6-Mar-20,12,285
+North America,,7-Mar-20,14,398
+North America,,8-Mar-20,17,499
+North America,,9-Mar-20,21,631
+North America,,10-Mar-20,27,854
+North America,,11-Mar-20,30,1151
+North America,,12-Mar-20,32,1475
+North America,,13-Mar-20,42,1889
+North America,,14-Mar-20,49,2471
+North America,,15-Mar-20,59,3343
+North America,,16-Mar-20,72,4254
+North America,,17-Mar-20,91,5330
+North America,,18-Mar-20,118,7288
+North America,,19-Mar-20,163,10489
+North America,,20-Mar-20,164,15605
+North America,,21-Mar-20,282,21267
+North America,,22-Mar-20,371,28954
+North America,,23-Mar-20,504,37805
+North America,,24-Mar-20,632,49453
+North America,,25-Mar-20,851,58816
+North America,,26-Mar-20,1114,74578
+North America,,27-Mar-20,1372,92418
+North America,,28-Mar-20,1820,112263
+North America,,29-Mar-20,2329,133501
+North America,,30-Mar-20,2674,153275
+North America,,31-Mar-20,3382,176390
+North America,,1-Apr-20,4320,203092
+North America,,2-Apr-20,5422,231942
+North America,,3-Apr-20,6391,262944
+North America,,4-Apr-20,7572,297313
+North America,,5-Apr-20,9005,333532
+North America,,6-Apr-20,10241,361291
+North America,,7-Apr-20,11670,393633
+North America,,8-Apr-20,13675,426275
+North America,,9-Apr-20,15706,462023
+North America,,10-Apr-20,17705,498418
+North America,,11-Apr-20,19917,536375
+South America,,31-Dec-19,0,0
+South America,,1-Jan-20,0,0
+South America,,2-Jan-20,0,0
+South America,,3-Jan-20,0,0
+South America,,4-Jan-20,0,0
+South America,,5-Jan-20,0,0
+South America,,6-Jan-20,0,0
+South America,,7-Jan-20,0,0
+South America,,8-Jan-20,0,0
+South America,,9-Jan-20,0,0
+South America,,10-Jan-20,0,0
+South America,,11-Jan-20,0,0
+South America,,12-Jan-20,0,0
+South America,,13-Jan-20,0,0
+South America,,14-Jan-20,0,0
+South America,,15-Jan-20,0,0
+South America,,16-Jan-20,0,0
+South America,,17-Jan-20,0,0
+South America,,18-Jan-20,0,0
+South America,,19-Jan-20,0,0
+South America,,20-Jan-20,0,0
+South America,,21-Jan-20,0,0
+South America,,22-Jan-20,0,0
+South America,,23-Jan-20,0,0
+South America,,24-Jan-20,0,0
+South America,,25-Jan-20,0,0
+South America,,26-Jan-20,0,0
+South America,,27-Jan-20,0,0
+South America,,28-Jan-20,0,0
+South America,,29-Jan-20,0,0
+South America,,30-Jan-20,0,0
+South America,,31-Jan-20,0,0
+South America,,1-Feb-20,0,0
+South America,,2-Feb-20,0,0
+South America,,3-Feb-20,0,0
+South America,,4-Feb-20,0,0
+South America,,5-Feb-20,0,0
+South America,,6-Feb-20,0,0
+South America,,7-Feb-20,0,0
+South America,,8-Feb-20,0,0
+South America,,9-Feb-20,0,0
+South America,,10-Feb-20,0,0
+South America,,11-Feb-20,0,0
+South America,,12-Feb-20,0,0
+South America,,13-Feb-20,0,0
+South America,,14-Feb-20,0,0
+South America,,15-Feb-20,0,0
+South America,,16-Feb-20,0,0
+South America,,17-Feb-20,0,0
+South America,,18-Feb-20,0,0
+South America,,19-Feb-20,0,0
+South America,,20-Feb-20,0,0
+South America,,21-Feb-20,0,0
+South America,,22-Feb-20,0,0
+South America,,23-Feb-20,0,0
+South America,,24-Feb-20,0,0
+South America,,25-Feb-20,0,0
+South America,,26-Feb-20,0,1
+South America,,27-Feb-20,0,1
+South America,,28-Feb-20,0,1
+South America,,29-Feb-20,0,1
+South America,,1-Mar-20,0,3
+South America,,2-Mar-20,0,8
+South America,,3-Mar-20,0,9
+South America,,4-Mar-20,0,11
+South America,,5-Mar-20,0,17
+South America,,6-Mar-20,0,27
+South America,,7-Mar-20,0,41
+South America,,8-Mar-20,1,43
+South America,,9-Mar-20,1,70
+South America,,10-Mar-20,1,78
+South America,,11-Mar-20,1,106
+South America,,12-Mar-20,1,144
+South America,,13-Mar-20,2,199
+South America,,14-Mar-20,4,270
+South America,,15-Mar-20,5,367
+South America,,16-Mar-20,5,530
+South America,,17-Mar-20,5,743
+South America,,18-Mar-20,6,975
+South America,,19-Mar-20,10,1319
+South America,,20-Mar-20,15,1813
+South America,,21-Mar-20,26,2532
+South America,,22-Mar-20,37,3173
+South America,,23-Mar-20,53,4084
+South America,,24-Mar-20,68,4932
+South America,,25-Mar-20,95,5748
+South America,,26-Mar-20,113,6732
+South America,,27-Mar-20,147,7755
+South America,,28-Mar-20,177,9018
+South America,,29-Mar-20,214,10251
+South America,,30-Mar-20,258,11263
+South America,,31-Mar-20,305,12351
+South America,,1-Apr-20,378,14373
+South America,,2-Apr-20,492,16848
+South America,,3-Apr-20,568,18936
+South America,,4-Apr-20,674,21087
+South America,,5-Apr-20,807,23347
+South America,,6-Apr-20,896,25458
+South America,,7-Apr-20,1008,27310
+South America,,8-Apr-20,1187,30240
+South America,,9-Apr-20,1376,35177
+South America,,10-Apr-20,1604,39260
+South America,,11-Apr-20,1798,44778
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,

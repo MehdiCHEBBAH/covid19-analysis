@@ -1,0 +1,1009 @@
+reporting date,country,gender,age,symptom_onset,hosp_visit_date,death,symptom
+1/13/2020,South Korea,male,36,NA,NA,0,
+1/15/2020,Japan,female,65,2/19/2020,2/21/2020,0,"fever, nasal discharge, headache"
+1/17/2020,South Korea,male,36,NA,NA,1,
+1/20/2020,Germany,female,46,NA,NA,0,
+1/21/2020,Singapore,female,79,1/30/2020,2/14/2020,0,
+1/21/2020,Japan,male,75,2/16/2020,2/20/2020,0,"fever, cough, malaise"
+1/21/2020,China,male,34,NA,1/23/2020,0,
+1/21/2020,China,male,79,1/11/2020,1/17/2020,1,
+1/21/2020,Singapore,male,38,1/23/2020,1/29/2020,0,
+1/21/2020,Japan,male,75,2/19/2020,2/21/2020,0,"fever, cough"
+1/22/2020,China,male,78,1/21/2020,1/23/2020,0,
+1/22/2020,France,female,35,NA,NA,0,
+1/22/2020,Japan,female,35,1/21/2020,1/23/2020,0,
+1/22/2020,Japan,female,35,1/24/2020,1/24/2020,0,"fever, cough"
+1/22/2020,China,male,78,1/13/2020,1/23/2020,1,
+1/22/2020,Australia,female,21,1/24/2020,1/24/2020,0,
+1/22/2020,South Korea,female,21,NA,NA,0,
+1/23/2020,Hong Kong,female,96,2/13/2020,2/22/2020,0,
+1/23/2020,Hong Kong,female,91,NA,NA,0,
+1/23/2020,Hong Kong,female,89,2/25/2020,2/26/2020,0,cough
+1/23/2020,Hong Kong,female,86,1/28/2020,2/9/2020,0,
+1/23/2020,Japan,female,85,NA,2/17/2020,0,
+1/23/2020,Taiwan,female,85,2/6/2020,NA,0,
+1/23/2020,South Korea,male,77,2/11/2020,NA,0,
+1/23/2020,China,female,32,1/17/2020,1/22/2020,0,
+1/23/2020,China,male,89,1/8/2020,NA,1,
+1/23/2020,China,male,89,1/13/2020,1/13/2020,1,
+1/23/2020,China,male,87,1/12/2020,1/19/2020,1,
+1/23/2020,China,male,86,1/2/2020,1/9/2020,1,
+1/23/2020,China,female,85,NA,NA,1,
+1/23/2020,Japan,female,85,1/22/2020,1/28/2020,1,fatigue
+1/23/2020,Malaysia,female,32,2/13/2020,NA,0,sore throat
+1/24/2020,Japan,male,85,NA,NA,0,
+1/24/2020,Japan,male,85,2/6/2020,2/17/2020,0,"fever, malaise, diarrhea, cough"
+1/24/2020,Japan,male,85,2/19/2020,2/19/2020,0,fever
+1/24/2020,Japan,male,85,2/14/2020,NA,0,fever
+1/24/2020,Japan,male,85,NA,NA,0,
+1/24/2020,Japan,male,85,2/22/2020,NA,0,"fever, cough, sputum, dyspnea"
+1/24/2020,Japan,male,85,2/24/2020,2/24/2020,0,"fever, cough"
+1/24/2020,Japan,male,85,2/22/2020,2/24/2020,0,"cough, fever"
+1/24/2020,Taiwan,male,85,NA,NA,0,
+1/24/2020,Hong Kong,female,83,NA,NA,0,
+1/24/2020,Hong Kong,female,83,2/14/2020,NA,0,
+1/24/2020,South Korea,male,82,NA,2/15/2020,0,chest discomfort
+1/24/2020,Hong Kong,female,80,2/8/2020,2/22/2020,0,
+1/24/2020,Hong Kong,female,76,2/13/2020,2/22/2020,0,
+1/24/2020,South Korea,male,76,NA,NA,0,
+1/24/2020,Japan,female,65,2/21/2020,2/22/2020,0,fever
+1/24/2020,Japan,male,55,1/31/2020,2/8/2020,0,"fever, abdominal pain, diarrhea"
+1/24/2020,South Korea,male,55,1/21/2020,1/21/2020,0,"high fever, aching muscles"
+1/24/2020,Hong Kong,female,46,2/8/2020,2/10/2020,0,"runny nose, cough"
+1/24/2020,Singapore,male,38,NA,NA,0,
+1/24/2020,Malaysia,female,37,NA,2/1/2020,0,mild fever
+1/24/2020,Japan,female,35,1/30/2020,1/31/2020,0,"fever, runny nose"
+1/24/2020,China,male,34,NA,NA,0,
+1/24/2020,Hong Kong,female,21,2/12/2020,2/25/2020,0,fever
+1/24/2020,China,female,20,1/19/2020,1/24/2020,0,
+1/24/2020,South Korea,female,20,NA,NA,0,
+1/24/2020,China,male,84,1/6/2020,1/9/2020,1,
+1/24/2020,China,female,82,NA,1/6/2020,1,
+1/24/2020,China,female,82,1/10/2020,1/17/2020,1,
+1/24/2020,China,male,82,1/9/2020,1/14/2020,1,
+1/24/2020,China,male,81,1/15/2020,1/18/2020,1,
+1/24/2020,China,male,81,1/9/2020,1/13/2020,1,
+1/24/2020,China,female,80,1/9/2020,1/18/2020,1,
+1/24/2020,China,female,76,1/8/2020,NA,1,
+1/24/2020,France,male,80,1/25/2020,1/25/2020,1,
+1/24/2020,Japan,male,85,2/9/2020,NA,1,"fever, pneumonia"
+1/24/2020,Japan,male,85,2/3/2020,2/3/2020,1,difficulty breathing
+1/24/2020,South Korea,male,55,1/10/2020,1/19/2020,0,"fever, sore throat"
+1/24/2020,Singapore,male,55,2/10/2020,2/12/2020,0,
+1/24/2020,Malaysia,female,83,NA,NA,0,
+1/24/2020,Japan,male,85,2/18/2020,2/19/2020,0,
+1/25/2020,Hong Kong,male,80,1/19/2020,1/30/2020,0,fever
+1/25/2020,Hong Kong,male,80,2/25/2020,2/25/2020,0,"fever, cough"
+1/25/2020,China,female,79,1/24/2020,1/24/2020,0,
+1/25/2020,Japan,female,75,2/4/2020,NA,0,"cough, malaise, shortness of breath"
+1/25/2020,Japan,female,75,2/3/2020,NA,0,"cough, sputum, dyspnea"
+1/25/2020,Japan,female,75,2/14/2020,2/15/2020,0,fever
+1/25/2020,Japan,female,75,2/6/2020,2/10/2020,0,"cough, sputum"
+1/25/2020,Japan,female,75,2/22/2020,2/22/2020,0,fever
+1/25/2020,Japan,female,75,2/21/2020,2/22/2020,0,"fever, cough"
+1/25/2020,Japan,female,75,2/20/2020,2/21/2020,0,fever
+1/25/2020,Japan,female,75,2/23/2020,2/23/2020,0,"fever, cough"
+1/25/2020,Japan,female,75,2/17/2020,2/20/2020,0,"fever, malaise"
+1/25/2020,Japan,female,75,2/16/2020,2/16/2020,0,"fever, cough"
+1/25/2020,Japan,female,75,2/24/2020,2/24/2020,0,"fever, cough, sore throat, runny nose"
+1/25/2020,Singapore,female,75,2/9/2020,2/9/2020,0,
+1/25/2020,Taiwan,female,75,2/6/2020,2/6/2020,0,
+1/25/2020,Japan,male,75,1/29/2020,1/29/2020,0,fever
+1/25/2020,Japan,male,75,1/20/2020,1/21/2020,0,"fever, loss of appetite"
+1/25/2020,Japan,male,75,2/14/2020,NA,0,"fever, cough"
+1/25/2020,Japan,male,75,2/4/2020,NA,0,"cough, malaise, shortness of breath"
+1/25/2020,Japan,male,75,NA,NA,0,
+1/25/2020,Japan,male,75,2/21/2020,2/22/2020,0,"fever, cough"
+1/25/2020,Japan,male,75,NA,NA,0,
+1/25/2020,Japan,male,75,2/12/2020,NA,0,fever
+1/25/2020,Japan,male,75,2/23/2020,NA,0,fever
+1/25/2020,Japan,male,75,2/12/2020,NA,0,"fever, cough, sputum, dyspnea"
+1/25/2020,Japan,male,75,2/14/2020,NA,0,"fever, cough, sputum"
+1/25/2020,Japan,male,75,2/24/2020,2/25/2020,0,"fever, cough, runny nose"
+1/25/2020,Japan,male,75,2/23/2020,2/25/2020,0,"fever, cough, malaise"
+1/25/2020,Japan,male,75,2/16/2020,2/20/2020,0,"fatigue, fever"
+1/25/2020,South Korea,male,75,NA,NA,0,
+1/25/2020,Hong Kong,male,75,1/22/2020,1/24/2020,0,"cough, shortness of breath"
+1/25/2020,Hong Kong,male,75,2/3/2020,2/3/2020,0,
+1/25/2020,Hong Kong,male,75,1/25/2020,1/31/2020,0,
+1/25/2020,Thailand,female,74,1/13/2020,1/13/2020,0,
+1/25/2020,China,female,69,1/10/2020,1/22/2020,0,
+1/25/2020,South Korea,female,69,NA,NA,0,
+1/25/2020,South Korea,female,69,NA,NA,0,
+1/25/2020,Japan,female,65,NA,NA,0,
+1/25/2020,Japan,male,55,1/31/2020,2//2020,0,"fever, cough, malaise"
+1/25/2020,Japan,male,55,2/4/2020,2/6/2020,0,fever
+1/25/2020,Japan,male,55,2/3/2020,2/4/2020,0,fever
+1/25/2020,Japan,male,55,2/25/2020,2/25/2020,0,"cough, malaise"
+1/25/2020,China,male,46,1/4/2020,1/17/2020,0,
+1/25/2020,France,male,31,NA,2/27/2020,0,
+1/25/2020,Germany,male,31,NA,NA,0,
+1/25/2020,China,male,75,1/12/2020,1/11/2020,1,
+1/25/2020,South Korea,male,75,NA,NA,1,
+1/25/2020,Japan,male,75,2/1/2020,2/6/2020,1,"cold, fever, pneumonia"
+1/25/2020,Singapore,male,31,1/28/2020,1/30/2020,0,
+1/25/2020,Malaysia,male,31,2/3/2020,NA,0,cough
+1/25/2020,Japan,female,75,2/1/2020,NA,0,"fever, cough, malaise"
+1/26/2020,Thailand,female,73,NA,NA,0,
+1/26/2020,China,male,72,1/19/2020,NA,0,
+1/26/2020,France,male,72,NA,NA,0,
+1/26/2020,Hong Kong,male,72,1/28/2020,1/28/2020,0,
+1/26/2020,Singapore,female,71,NA,NA,0,
+1/26/2020,China,male,71,1/25/2020,1/25/2020,0,
+1/26/2020,China,male,71,NA,1/24/2020,0,
+1/26/2020,Singapore,male,71,2/1/2020,2/1/2020,0,
+1/26/2020,Hong Kong,male,71,2/5/2020,2/10/2020,0,
+1/26/2020,Japan,female,65,2/25/2020,2/25/2020,0,fever
+1/26/2020,South Korea,male,55,NA,NA,0,
+1/26/2020,Japan,female,35,NA,NA,0,
+1/26/2020,Singapore,female,35,2/12/2020,2/17/2020,0,
+1/26/2020,China,female,33,NA,1/20/2020,0,
+1/26/2020,China,female,33,NA,1/20/2020,0,
+1/26/2020,Spain,male,31,NA,NA,0,
+1/26/2020,China,male,72,1/11/2020,1/18/2020,1,
+1/26/2020,South Korea,male,74,NA,NA,1,
+1/26/2020,Thailand,female,73,1/13/2020,1/13/2020,0,fever
+1/26/2020,UAE,female,73,1/23/2020,NA,0,
+1/26/2020,Singapore,female,73,1/28/2020,NA,0,
+1/26/2020,Singapore,male,34,2/1/2020,2/2/2020,0,
+1/26/2020,Vietnam,male,30,NA,NA,0,
+1/26/2020,South Korea,female,73,NA,NA,0,"fever, cough, sore throat"
+1/27/2020,Hong Kong,female,73,1/28/2020,1/28/2020,0,
+1/27/2020,South Korea,female,72,NA,NA,0,
+1/27/2020,Hong Kong,female,72,2/1/2020,2/1/2020,0,"fever, cough"
+1/27/2020,China,female,70,1/23/2020,NA,0,
+1/27/2020,Taiwan,female,70,1/25/2020,1/25/2020,0,fever
+1/27/2020,Taiwan,female,70,1/25/2020,1/25/2020,0,fever
+1/27/2020,Hong Kong,female,70,2/12/2020,2/18/2020,0,
+1/27/2020,Hong Kong,female,70,2/13/2020,2/13/2020,0,cough with sputum
+1/27/2020,China,male,70,NA,1/20/2020,0,
+1/27/2020,Thailand,male,70,NA,NA,0,
+1/27/2020,UAE,male,70,NA,NA,0,
+1/27/2020,Hong Kong,male,70,1/30/2020,2/1/2020,0,"cough, chills, shortness of breath, diarrhea"
+1/27/2020,Switzerland,male,70,2/17/2020,NA,0,
+1/27/2020,Taiwan,male,55,1/23/2020,1/23/2020,0,flu symptoms
+1/27/2020,China,male,46,1/20/2020,NA,0,
+1/27/2020,South Korea,female,37,NA,NA,0,
+1/27/2020,Spain,male,30,NA,NA,0,
+1/27/2020,China,female,28,1/19/2020,NA,0,
+1/27/2020,China,female,19,1/19/2020,1/20/2020,0,
+1/27/2020,China,female,19,NA,1/24/2020,0,
+1/27/2020,China,male,19,1/20/2020,NA,0,
+1/27/2020,China,male,73,12/29/2019,1/5/2020,1,
+1/27/2020,China,female,70,NA,1/13/2020,1,
+1/27/2020,China,female,70,1/15/2020,1/18/2020,1,
+1/27/2020,China,male,70,1/15/2020,1/19/2020,1,
+1/27/2020,Hong Kong,male,70,2/2/2020,2/12/2020,1,cough
+1/27/2020,China,female,69,1/14/2020,1/20/2020,1,
+1/27/2020,Singapore,female,37,1/26/2020,1/29/2020,0,
+1/28/2020,China,male,69,NA,NA,0,
+1/28/2020,Japan,female,65,2/17/2020,2/17/2020,0,fever
+1/28/2020,Japan,female,65,2/26/2020,2/26/2020,0,fever
+1/28/2020,Taiwan,male,55,1/26/2020,NA,0,cough
+1/28/2020,Taiwan,male,55,NA,NA,0,
+1/28/2020,Australia,female,37,NA,NA,0,
+1/28/2020,Hong Kong,female,37,1/28/2020,1/30/2020,0,cough
+1/28/2020,Hong Kong,female,37,2/2/2020,2/3/2020,0,
+1/28/2020,Taiwan,female,35,NA,2/24/2020,0,throat discomfort
+1/28/2020,Thailand,female,35,NA,NA,0,
+1/28/2020,Canada,female,35,NA,NA,0,
+1/28/2020,Canada,female,35,NA,NA,0,
+1/28/2020,China,female,29,1/24/2020,1/24/2020,0,
+1/28/2020,China,female,28,1/7/2020,1/10/2020,0,"feaver, cough, difficult in breathing"
+1/28/2020,South Korea,female,35,1/18/2020,1/19/2020,0,"high fever, chills, muscle pain"
+1/28/2020,Malaysia,female,65,1/24/2020,NA,0,
+1/28/2020,Singapore,female,35,2/4/2020,2/4/2020,0,
+1/28/2020,Singapore,female,28,1/29/2020,2/3/2020,0,"fever, sore throat"
+1/29/2020,Japan,male,55,2/7/2020,2/7/2020,0,fever
+1/29/2020,Japan,male,55,2/5/2020,NA,0,"fever, cough, sputum, malaise"
+1/29/2020,Japan,male,55,NA,NA,0,
+1/29/2020,Taiwan,male,55,1/26/2020,2/1/2020,0,"fever, cough"
+1/29/2020,Taiwan,male,55,NA,NA,0,
+1/29/2020,Taiwan,male,55,NA,NA,0,throat discomfort
+1/29/2020,China,female,30,NA,NA,0,
+1/29/2020,Hong Kong,female,28,1/30/2020,2/4/2020,0,"cough, sore throat"
+1/29/2020,China,male,28,NA,NA,0,
+1/29/2020,China,female,24,1/19/2020,NA,0,
+1/29/2020,Germany,female,24,NA,NA,0,
+1/29/2020,China,male,24,NA,1/22/2020,0,
+1/29/2020,China,female,18,1/19/2020,1/20/2020,0,
+1/29/2020,China,male,18,1/20/2020,1/23/2020,0,
+1/29/2020,China,male,69,12/30/2019,1/3/2020,1,
+1/29/2020,France,female,30,1/23/2020,1/25/2020,0,
+1/29/2020,Hong Kong,male,25,1/28/2020,1/29/2020,0,"cough, runny nose, diarrhea"
+1/29/2020,Malaysia,female,65,NA,NA,0,
+1/29/2020,South Korea,female,28,NA,NA,0,
+1/30/2020,Hong Kong,male,69,1/30/2020,2/7/2020,0,
+1/30/2020,South Korea,female,65,NA,NA,0,
+1/30/2020,Taiwan,female,65,NA,NA,0,
+1/30/2020,Canada,female,65,NA,NA,0,
+1/30/2020,Hong Kong,female,65,1/28/2020,1/29/2020,0,"fever, cough"
+1/30/2020,Australia,male,55,1/23/2020,1/24/2020,0,
+1/30/2020,Spain,male,55,NA,NA,0,
+1/30/2020,China,male,46,NA,NA,0,
+1/30/2020,China,male,46,1/15/2020,1/17/2020,0,
+1/30/2020,China,male,37,1/14/2020,1/20/2020,0,
+1/30/2020,Canada,female,35,NA,NA,0,
+1/30/2020,China,female,33,1/18/2020,1/23/2020,0,
+1/30/2020,Hong Kong,female,32,2/2/2020,NA,0,"fever, cough"
+1/30/2020,Finland,female,32,1/26/2020,1/28/2020,0,fever
+1/30/2020,Singapore,female,30,2/16/2020,2/17/2020,0,
+1/30/2020,China,male,28,1/21/2020,1/23/2020,0,
+1/30/2020,Hong Kong,male,16,2/17/2020,2/25/2020,0,runny nose
+1/30/2020,Singapore,female,32,NA,NA,0,
+1/30/2020,South Korea,male,46,NA,NA,0,
+1/30/2020,Vietnam,female,16,NA,NA,0,
+1/30/2020,Singapore,female,54,2/10/2020,2/13/2020,0,
+1/30/2020,Japan,male,55,2/16/2020,2/16/2020,0,fever
+1/31/2020,South Korea,female,54,NA,NA,0,
+1/31/2020,Thailand,female,54,NA,2/6/2020,0,
+1/31/2020,Singapore,male,54,1/30/2020,1/30/2020,0,
+1/31/2020,China,male,46,1/23/2020,NA,0,
+1/31/2020,China,female,45,1/23/2020,NA,0,
+1/31/2020,Japan,female,45,1/26/2020,1/27/2020,0,"fever, cough"
+1/31/2020,China,male,37,NA,1/17/2020,0,
+1/31/2020,China,male,35,1/18/2020,1/21/2020,0,
+1/31/2020,Japan,male,35,NA,NA,0,
+1/31/2020,Japan,male,35,2/11/2020,2/10/2020,0,fever
+1/31/2020,Japan,male,35,2/3/2020,2/4/2020,0,"fever, malaise"
+1/31/2020,France,female,33,NA,NA,0,
+1/31/2020,Thailand,female,33,1/23/2020,1/23/2020,0,"fever, coughing, muscle aches"
+1/31/2020,South Korea,female,30,NA,NA,0,
+1/31/2020,China,male,28,1/20/2020,1/23/2020,0,
+1/31/2020,Japan,female,15,2/6/2020,2/7/2020,0,"fever, sore throat, malaise"
+1/31/2020,China,male,65,1/5/2020,1/11/2020,1,
+1/31/2020,Japan,male,35,1/3/2020,1/6/2020,0,fever
+1/31/2020,Singapore,male,28,1/29/2020,2/2/2020,0,
+1/31/2020,Singapore,male,46,2/3/2020,2/8/2020,0,
+2/1/2020,China,male,65,NA,1/21/2020,0,
+2/1/2020,Japan,male,65,1/14/2020,1/17/2020,0,"cough, chills, joint pain"
+2/1/2020,Singapore,male,54,2/10/2020,2/12/2020,0,
+2/1/2020,Japan,female,45,1/20/2020,1/20/2020,0,"fever, cough"
+2/1/2020,South Korea,female,30,NA,NA,0,
+2/1/2020,China,male,30,NA,1/20/2020,0,
+2/1/2020,China,male,30,1/24/2020,1/24/2020,0,
+2/1/2020,China,female,29,1/24/2020,1/24/2020,0,
+2/1/2020,South Korea,male,28,1/26/2020,NA,0,cough
+2/1/2020,Singapore,male,24,2/14/2020,2/16/2020,0,
+2/1/2020,China,male,65,1/12/2020,1/16/2020,1,
+2/1/2020,Singapore,male,54,1/28/2020,2/1/2020,0,
+2/2/2020,Japan,female,45,2/14/2020,2/14/2020,0,"fever, vomiting, diarrhea"
+2/2/2020,Japan,female,45,NA,NA,0,
+2/2/2020,China,male,15,1/21/2020,1/23/2020,0,
+2/2/2020,South Korea,male,28,2/1/2020,NA,0,
+2/2/2020,South Korea,male,28,NA,NA,0,sore throat
+2/2/2020,Japan,female,45,2/16/2020,2/18/2020,0,fever
+2/2/2020,Japan,male,15,2/18/2020,2/19/2020,0,
+2/3/2020,China,male,33,1/11/2020,1/17/2020,0,
+2/3/2020,China,male,33,1/22/2020,1/24/2020,0,
+2/3/2020,China,male,33,NA,NA,0,
+2/3/2020,South Korea,male,32,NA,NA,0,
+2/3/2020,Nepal,male,32,1/3/2020,1/13/2020,0,
+2/3/2020,Singapore,male,32,NA,NA,0,
+2/4/2020,Japan,male,65,2/3/2020,2/8/2020,0,fever
+2/4/2020,Japan,male,65,NA,NA,0,"fever, headache"
+2/4/2020,Japan,male,65,NA,NA,0,"fatigue, difficulty breathing"
+2/4/2020,Japan,male,55,2/20/2020,2/21/2020,0,"cough, fever"
+2/4/2020,Japan,male,55,2/16/2020,2/17/2020,0,fever
+2/4/2020,South Korea,male,54,1/22/2020,1/25/2020,0,"fever, chills, muscle cramps"
+2/4/2020,Hong Kong,male,54,NA,2/7/2020,0,fever
+2/4/2020,Malaysia,female,53,NA,NA,0,
+2/4/2020,China,male,53,NA,NA,0,
+2/4/2020,Japan,female,45,2/23/2020,2/23/2020,0,"fever, runny nose"
+2/4/2020,Japan,male,35,2/16/2020,2/17/2020,0,fever
+2/4/2020,Japan,male,35,NA,NA,0,
+2/4/2020,Japan,male,35,2/18/2020,NA,0,"fever, sore throat"
+2/4/2020,Japan,male,35,2/17/2020,2/18/2020,0,fever
+2/4/2020,Japan,male,35,2/24/2020,2/25/2020,0,"fever, headache, malaise, joint pain"
+2/4/2020,Germany,male,32,NA,NA,0,
+2/4/2020,Germany,male,32,2/23/2020,,0,
+2/4/2020,South Korea,female,11,2/8/2020,NA,0,
+2/4/2020,China,female,9,1/21/2020,NA,0,
+2/4/2020,China,male,53,NA,1/13/2020,1,
+2/4/2020,Singapore,female,53,1/21/2020,1/22/2020,0,"fever, cough, chills"
+2/4/2020,Malaysia,male,11,1/24/2020,NA,0,
+2/4/2020,Singapore,male,30,1/30/2020,1/30/2020,0,
+2/5/2020,Japan,male,65,2/15/2020,2/15/2020,0,fever
+2/5/2020,Japan,male,65,2/6/2020,2/7/2020,0,"fever, malaise"
+2/5/2020,Japan,male,65,2/17/2020,2/17/2020,0,"fever, malaise"
+2/5/2020,Japan,male,55,2/17/2020,2/18/2020,0,"fever, difficulty breathing"
+2/5/2020,Japan,male,55,2/16/2020,2/17/2020,0,"fever, headache"
+2/5/2020,Singapore,male,53,1/30/2020,2/1/2020,0,
+2/5/2020,Japan,female,45,2/6/2020,2/6/2020,0,"throat discomfort, cough, chest pain"
+2/5/2020,Japan,female,45,2/24/2020,NA,0,"cough, sore throat"
+2/5/2020,Taiwan,female,45,2/1/2020,2/3/2020,0,"fever, chills, sore throat, runny nose, shortness of breath"
+2/5/2020,China,male,37,1/20/2020,NA,0,
+2/5/2020,Germany,male,33,1/24/2020,NA,0,"sore throat, chills, myalgias, fever, cough"
+2/5/2020,South Korea,female,29,NA,NA,0,
+2/5/2020,South Korea,male,28,NA,NA,0,
+2/5/2020,Thailand,male,8,NA,NA,0,
+2/5/2020,Australia,male,8,NA,NA,0,
+2/5/2020,Australia,male,53,1/20/2020,NA,0,
+2/5/2020,Vietnam,male,28,1/20/2020,NA,0,fever
+2/5/2020,UK,male,53,NA,NA,0,
+2/5/2020,Singapore,male,53,1/23/2020,1/23/2020,0,
+2/5/2020,Malaysia,male,9,NA,NA,0,
+2/5/2020,Singapore,male,30,2/12/2020,NA,0,
+2/6/2020,Japan,male,55,2/14/2020,2/17/2020,0,chills
+2/6/2020,Japan,male,55,2/17/2020,2/20/2020,0,cough
+2/6/2020,Spain,male,53,NA,NA,0,
+2/6/2020,China,female,52,1/14/2020,1/22/2020,0,
+2/6/2020,Taiwan,female,45,1/28/2020,1/30/2020,0,"fever, cough"
+2/6/2020,Australia,female,45,1/25/2020,NA,0,
+2/6/2020,Lebanon,female,45,NA,NA,0,
+2/6/2020,China,male,45,1/19/2020,1/21/2020,0,
+2/6/2020,China,male,37,NA,NA,0,
+2/6/2020,Singapore,male,37,2/7/2020,2/11/2020,0,
+2/6/2020,Singapore,female,31,NA,NA,0,
+2/6/2020,South Korea,male,30,NA,NA,0,
+2/6/2020,Hong Kong,female,29,2/16/2020,2/20/2020,0,
+2/6/2020,Spain,male,28,NA,NA,0,
+2/6/2020,Japan,male,5,2/21/2020,2/24/2020,0,"fever, cough"
+2/6/2020,China,male,37,NA,1/17/2020,0,fever
+2/6/2020,Singapore,female,31,1/27/2020,NA,0,
+2/6/2020,UAE,male,8,NA,NA,0,
+2/6/2020,Vietnam,female,29,NA,NA,0,
+2/6/2020,Singapore,male,37,1/31/2020,2/2/2020,0,
+2/6/2020,Singapore,male,37,NA,NA,0,
+2/6/2020,Japan,male,5,2/15/2020,2/17/2020,0,fever
+2/7/2020,Japan,male,55,2/14/2020,2/17/2020,0,"fever, respiratory distress"
+2/7/2020,China,female,52,NA,NA,0,
+2/7/2020,China,male,45,1/16/2020,1/21/2020,0,
+2/7/2020,Japan,male,5,2/21/2020,2/22/2020,0,"fever, cough"
+2/7/2020,China,female,4,1/18/2020,1/21/2020,0,
+2/7/2020,Singapore,female,52,2/3/2020,2/4/2020,0,
+2/7/2020,South Korea,female,52,1/29/2020,NA,0,headache
+2/7/2020,Singapore,female,27,2/3/2020,2/3/2020,0,
+2/8/2020,Hong Kong,male,69,2/8/2020,2/8/2020,0,"cough, shortness of breath"
+2/8/2020,Spain,male,69,NA,NA,0,
+2/8/2020,China,female,68,1/14/2020,NA,0,
+2/8/2020,China,female,68,NA,1/24/2020,0,
+2/8/2020,South Korea,female,68,2/6/2020,NA,0,"cough, chill, muscle pain"
+2/8/2020,Japan,male,65,2/16/2020,2/11/2020,0,fever
+2/8/2020,Japan,male,55,2/19/2020,NA,0,"fever, malaise"
+2/8/2020,China,male,52,NA,NA,0,
+2/8/2020,Germany,male,52,NA,NA,0,
+2/8/2020,Hong Kong,male,52,2/8/2020,2/9/2020,0,
+2/8/2020,Singapore,female,51,2/8/2020,2/8/2020,0,
+2/8/2020,South Korea,male,37,1/26/2020,2/4/2020,0,
+2/8/2020,Australia,male,37,NA,NA,0,
+2/8/2020,Japan,male,35,2/20/2020,2/23/2020,0,"cough, fever, joint pain"
+2/8/2020,South Korea,male,35,2/2/2020,NA,0,
+2/8/2020,Taiwan,male,35,1/28/2020,NA,0,"fever, cough"
+2/8/2020,Taiwan,male,35,2/25/2020,NA,0,"cough, itchy throat"
+2/8/2020,Thailand,female,31,NA,NA,0,
+2/8/2020,South Korea,male,24,NA,NA,0,
+2/8/2020,South Korea,male,24,NA,NA,0,
+2/8/2020,China,female,51,NA,1/11/2020,0,"feaver, cough, difficult in breathing"
+2/8/2020,Singapore,male,35,1/24/2020,1/24/2020,0,
+2/8/2020,Malaysia,male,52,NA,NA,0,
+2/8/2020,Singapore,male,35,2/5/2020,2/9/2020,0,
+2/8/2020,Singapore,male,35,NA,NA,0,
+2/8/2020,South Korea,female,52,NA,NA,0,
+2/9/2020,Japan,male,55,2/20/2020,2/24/2020,0,sore throat
+2/9/2020,Hong Kong,female,51,NA,NA,0,
+2/9/2020,China,male,51,1/16/2020,NA,0,
+2/9/2020,China,male,51,1/14/2020,1/14/2020,0,
+2/9/2020,Japan,male,45,1/14/2020,1/15/2020,0,
+2/9/2020,Japan,male,45,1/23/2020,1/24/2020,0,
+2/9/2020,Japan,male,45,1/22/2020,1/26/2020,0,fever
+2/9/2020,China,male,31,NA,1/24/2020,0,
+2/9/2020,China,female,2,1/22/2020,1/23/2020,0,
+2/9/2020,Malaysia,female,4,NA,1/26/2020,0,"fever, cough, flu"
+2/9/2020,Singapore,female,2,NA,NA,0,
+2/9/2020,Malaysia,male,2,1/24/2020,NA,0,
+2/9/2020,Singapore,male,1,NA,NA,0,
+2/9/2020,Singapore,male,0.5,NA,NA,0,
+2/10/2020,Japan,male,65,NA,NA,0,
+2/10/2020,Japan,male,65,2/3/2020,2/5/2020,0,fever
+2/10/2020,Japan,male,55,2/22/2020,2/25/2020,0,fever
+2/10/2020,South Korea,male,51,NA,NA,0,
+2/10/2020,Germany,male,33,NA,NA,0,
+2/10/2020,China,male,31,NA,1/21/2020,0,
+2/10/2020,Hong Kong,male,24,1/30/2020,1/30/2020,0,"fever, cough"
+2/10/2020,Singapore,male,51,1/29/2020,2/3/2020,0,
+2/11/2020,Hong Kong,male,51,2/3/2020,2/10/2020,0,fever
+2/11/2020,China,female,50,1/16/2020,NA,0,
+2/11/2020,Japan,male,45,NA,NA,0,
+2/11/2020,Spain,female,27,NA,NA,0,
+2/11/2020,China,male,27,1/21/2020,1/21/2020,0,
+2/11/2020,USA,male,35,1/16/2020,1/19/2020,0,
+2/12/2020,China,female,50,1/14/2020,1/22/2020,0,
+2/12/2020,Taiwan,female,50,1/22/2020,1/25/2020,0,cough
+2/12/2020,Hong Kong,male,33,2/20/2020,NA,0,
+2/12/2020,South Korea,female,50,NA,NA,0,
+2/13/2020,Japan,male,65,2/11/2020,2/18/2020,0,"fever, breathlessness, malaise"
+2/13/2020,Japan,male,65,2/13/2020,2/13/2020,0,"fever, pneumonia"
+2/13/2020,Japan,male,65,2/15/2020,2/19/2020,0,"fatigue, cold, fever, vomiting"
+2/13/2020,Japan,male,55,2/24/2020,2/25/2020,0,"fever, thirst"
+2/13/2020,Taiwan,female,50,1/25/2020,1/25/2020,0,"fever, muscle aches"
+2/13/2020,Hong Kong,female,50,NA,NA,0,
+2/13/2020,China,male,50,1/10/2020,NA,0,
+2/13/2020,China,male,50,1/18/2020,NA,0,
+2/13/2020,China,male,50,1/25/2020,1/26/2020,0,
+2/13/2020,China,male,50,1/18/2020,1/22/2020,0,
+2/13/2020,France,male,50,NA,2/26/2020,0,
+2/13/2020,China,female,32,1/15/2020,1/20/2020,0,
+2/13/2020,France,male,31,1/19/2020,1/25/2020,0,
+2/13/2020,Singapore,male,50,2/3/2020,2/5/2020,0,
+2/13/2020,Japan,male,65,2/6/2020,2/9/2020,0,"fatigue, loss of appetite"
+2/14/2020,Japan,male,65,2/10/2020,2/10/2020,0,fever
+2/14/2020,Japan,male,65,2/12/2020,NA,0,"fever, cough"
+2/14/2020,Japan,male,65,2/20/2020,2/21/2020,0,"fever, cough, malaise"
+2/14/2020,Japan,male,65,2/20/2020,2/21/2020,0,fever
+2/14/2020,Japan,male,65,2/16/2020,2/17/2020,0,"fever, sore throat"
+2/14/2020,Japan,male,65,2/20/2020,2/21/2020,0,"fatigue, fever"
+2/14/2020,Japan,male,65,2/22/2020,2/24/2020,0,fever
+2/14/2020,Vietnam,male,50,2/11/2020,NA,0,tired
+2/14/2020,China,female,49,1/21/2020,1/22/2020,0,
+2/14/2020,Hong Kong,female,49,2/18/2020,2/22/2020,0,"cough, sputum, sore throat"
+2/14/2020,China,male,49,1/21/2020,1/21/2020,0,
+2/14/2020,China,male,49,1/23/2020,NA,0,
+2/14/2020,China,male,49,1/19/2020,1/19/2020,0,
+2/14/2020,China,male,29,NA,1/19/2020,0,
+2/14/2020,Thailand,male,50,1/20/2020,1/23/2020,0,
+2/14/2020,Malaysia,female,49,NA,NA,0,
+2/14/2020,Singapore,male,50,2/16/2020,2/17/2020,0,
+2/15/2020,Hong Kong,female,68,1/21/2020,1/25/2020,0,fever
+2/15/2020,Japan,male,65,NA,2/26/2020,0,"fever, cough, malaise"
+2/15/2020,Japan,male,65,2/25/2020,2/25/2020,0,fever
+2/15/2020,Japan,male,65,2/18/2020,2/22/2020,0,"sore throat, fever, joint pain, dyspnea"
+2/15/2020,Japan,male,65,2/22/2020,2/22/2020,0,"fever, malaise, sore throat"
+2/15/2020,Japan,male,65,2/26/2020,2/26/2020,0,"fever, cough, headache"
+2/15/2020,China,male,49,NA,1/23/2020,0,
+2/15/2020,China,male,49,1/21/2020,1/21/2020,0,
+2/15/2020,China,male,49,1/26/2020,1/26/2020,0,
+2/15/2020,South Korea,male,49,NA,NA,0,
+2/15/2020,Taiwan,male,65,1/27/2020,2/3/2020,1,"cough, shortness of breath"
+2/15/2020,Australia,male,35,1/15/2020,NA,0,
+2/15/2020,South Korea,male,49,NA,NA,0,
+2/16/2020,Australia,male,65,1/23/2020,NA,0,
+2/16/2020,China,female,64,1/10/2020,1/20/2020,0,
+2/16/2020,UAE,female,64,NA,NA,0,
+2/16/2020,Japan,male,55,2/14/2020,2/15/2020,0,"malaise, fever, headache"
+2/16/2020,Japan,male,55,2/16/2020,2/17/2020,0,fever
+2/16/2020,Japan,male,55,2/20/2020,2/20/2020,0,"fever, headache, malaise"
+2/16/2020,Germany,male,49,NA,NA,0,
+2/16/2020,China,female,48,NA,1/24/2020,0,
+2/16/2020,Japan,male,45,1/26/2020,1/30/2020,0,"fever, cough"
+2/16/2020,UAE,male,37,NA,NA,0,
+2/16/2020,Hong Kong,male,37,1/30/2020,1/30/2020,0,
+2/16/2020,Canada,male,35,NA,NA,0,
+2/16/2020,Hong Kong,male,24,NA,NA,0,
+2/16/2020,China,female,48,12/10/2019,NA,1,
+2/16/2020,USA,male,65,1/28/2020,1/28/2020,0,
+2/17/2020,Hong Kong,female,64,1/23/2020,1/23/2020,0,cough
+2/17/2020,Singapore,male,64,1/30/2020,1/31/2020,0,
+2/17/2020,South Korea,male,64,NA,NA,0,
+2/17/2020,Hong Kong,male,64,1/25/2020,1/25/2020,0,fever
+2/17/2020,China,female,63,1/10/2020,1/24/2020,0,
+2/17/2020,South Korea,female,63,NA,NA,0,
+2/17/2020,Singapore,female,48,1/25/2020,2/3/2020,0,
+2/17/2020,South Korea,female,48,NA,NA,0,
+2/17/2020,Japan,male,45,1/24/2020,1/27/2020,0,
+2/17/2020,Hong Kong,male,37,2/8/2020,2/9/2020,0,fever
+2/17/2020,China,female,36,1/19/2020,NA,0,
+2/18/2020,Hong Kong,female,63,1/26/2020,2/5/2020,0,"cough, malaise"
+2/18/2020,Hong Kong,female,63,1/30/2020,1/31/2020,0,
+2/18/2020,China,male,63,1/14/2020,1/21/2020,0,
+2/18/2020,China,male,63,NA,1/23/2020,0,
+2/18/2020,France,male,63,NA,NA,0,
+2/18/2020,South Korea,female,48,NA,NA,0,
+2/18/2020,China,male,48,1/18/2020,NA,0,
+2/18/2020,China,male,48,1/17/2020,1/19/2020,0,
+2/18/2020,France,male,48,1/23/2020,1/23/2020,0,
+2/18/2020,Japan,male,45,2/8/2020,2/10/2020,0,fever
+2/18/2020,Malaysia,male,63,1/23/2020,NA,0,fever
+2/19/2020,China,female,62,1/9/2020,1/21/2020,0,
+2/19/2020,South Korea,female,62,1/21/2020,NA,0,
+2/19/2020,Hong Kong,female,62,1/20/2020,1/23/2020,0,"fever, cough"
+2/19/2020,Hong Kong,female,62,1/23/2020,1/23/2020,0,feve\
+2/19/2020,Hong Kong,female,62,2/3/2020,2/3/2020,0,
+2/19/2020,South Korea,male,62,2/2/2020,2/5/2020,0,
+2/19/2020,Hong Kong,male,62,2/10/2020,2/22/2020,0,
+2/19/2020,Spain,male,62,NA,NA,0,
+2/19/2020,Hong Kong,male,48,2/18/2020,2/19/2020,0,
+2/19/2020,China,female,47,1/21/2020,1/23/2020,0,
+2/19/2020,Japan,male,45,NA,NA,0,
+2/19/2020,Japan,male,45,2/8/2020,2/13/2020,0,"fatigue, muscle pain, joint pain, fever"
+2/19/2020,Japan,male,45,NA,NA,0,
+2/19/2020,Japan,male,45,2/2/2020,2/2/2020,0,"fever, fatigue, cough, diarrhea"
+2/19/2020,Japan,male,45,2/12/2020,2/18/2020,0,"joint pain, muscle pain, cough, malaise"
+2/19/2020,Japan,male,45,2/13/2020,NA,0,"fever, malaise"
+2/19/2020,Japan,male,45,2/24/2020,2/24/2020,0,"fever, cough"
+2/19/2020,Japan,male,45,2/20/2020,2/26/2020,0,"fever, cough, headache"
+2/19/2020,Japan,male,45,2/15/2020,2/17/2020,0,"vomiting, cough, fever, sore throat"
+2/19/2020,Japan,male,45,2/21/2020,2/21/2020,0,fever
+2/19/2020,Taiwan,male,45,2/3/2020,2/4/2020,0,"fever, cough, headache"
+2/19/2020,Taiwan,male,45,1/29/2020,NA,0,physical discomfort
+2/19/2020,Canada,male,45,1/26/2020,1/26/2020,0,
+2/19/2020,Canada,male,45,NA,NA,0,
+2/19/2020,Hong Kong,male,45,2/12/2020,2/13/2020,0,"fever, sore throat"
+2/19/2020,China,female,44,1/15/2020,NA,0,
+2/19/2020,China,female,36,NA,1/24/2020,0,
+2/19/2020,South Korea,male,62,NA,NA,1,
+2/19/2020,Hong Kong,male,63,1/23/2020,1/23/2020,0,"fever, cough"
+2/19/2020,South Korea,male,48,2/1/2020,2/1/2020,0,
+2/19/2020,Malaysia,male,45,NA,NA,0,
+2/19/2020,Singapore,female,44,2/2/2020,2/3/2020,0,
+2/19/2020,Singapore,male,62,2/7/2020,2/7/2020,0,
+2/19/2020,Singapore,male,48,2/4/2020,2/5/2020,0,
+2/19/2020,Singapore,male,45,2/1/2020,2/2/2020,0,
+2/19/2020,Singapore,female,44,2/9/2020,2/9/2020,0,
+2/20/2020,South Korea,female,61,2/7/2020,2/17/2020,0,fever
+2/20/2020,South Korea,female,61,NA,NA,0,
+2/20/2020,Thailand,female,61,1/5/2020,1/8/2020,0,"fever, chills, sore throat, headache"
+2/20/2020,China,female,60,NA,1/19/2020,0,
+2/20/2020,China,male,44,1/18/2020,1/24/2020,0,
+2/20/2020,Australia,male,44,1/28/2020,1/28/2020,0,
+2/20/2020,Spain,male,44,NA,NA,0,
+2/20/2020,China,male,43,1/18/2020,1/21/2020,0,
+2/20/2020,Hong Kong,male,43,1/29/2020,1/31/2020,0,"cough, diarrhea, vomiting"
+2/20/2020,China,female,42,NA,1/23/2020,0,
+2/20/2020,China,female,42,1/23/2020,1/24/2020,0,
+2/20/2020,Australia,female,42,NA,NA,0,
+2/20/2020,China,male,42,1/20/2020,NA,0,
+2/20/2020,China,male,42,1/20/2020,1/21/2020,0,
+2/20/2020,China,male,42,1/19/2020,1/22/2020,0,
+2/20/2020,Hong Kong,male,42,2/3/2020,2/3/2020,0,"fever, cough"
+2/20/2020,Spain,male,42,NA,NA,0,
+2/20/2020,China,female,41,1/22/2020,1/22/2020,0,
+2/20/2020,Hong Kong,female,41,NA,NA,0,
+2/20/2020,China,male,41,1/14/2020,1/23/2020,0,
+2/20/2020,Singapore,male,41,2/3/2020,2/3/2020,0,
+2/20/2020,Germany,male,41,2/20/2020,2/26/2020,0,
+2/20/2020,China,female,40,1/18/2020,1/22/2020,0,
+2/20/2020,Malaysia,female,40,2/1/2020,NA,0,"fever, sore throat, cough"
+2/20/2020,South Korea,female,40,NA,NA,0,
+2/20/2020,China,male,40,1/14/2020,1/19/2020,0,
+2/20/2020,China,male,40,1/5/2020,1/20/2020,0,
+2/20/2020,China,male,40,1/14/2020,NA,0,
+2/20/2020,China,male,40,1/23/2020,1/23/2020,0,
+2/20/2020,Singapore,male,40,2/10/2020,2/11/2020,0,
+2/20/2020,China,female,39,NA,1/22/2020,0,
+2/20/2020,China,female,39,1/25/2020,1/25/2020,0,
+2/20/2020,Malaysia,female,39,NA,NA,0,
+2/20/2020,South Korea,female,39,NA,NA,0,
+2/20/2020,China,male,39,1/9/2020,1/14/2020,0,
+2/20/2020,China,male,39,NA,NA,0,
+2/20/2020,China,male,39,1/23/2020,1/23/2020,0,
+2/20/2020,Singapore,male,39,2/1/2020,2/3/2020,0,
+2/20/2020,Singapore,male,39,2/6/2020,2/7/2020,0,
+2/20/2020,Hong Kong,male,39,1/21/2020,1/22/2020,0,fever
+2/20/2020,China,female,36,1/21/2020,1/25/2020,0,
+2/20/2020,China,female,32,NA,NA,0,
+2/20/2020,China,male,61,12/20/2019,12/27/2019,1,
+2/20/2020,Hong Kong,male,39,1/31/2020,1/31/2020,1,"myalgia, fever"
+2/20/2020,Phillipines,male,44,1/25/2020,1/25/2020,1,"fever, cough, sore throat"
+2/20/2020,South Korea,male,41,NA,NA,1,
+2/20/2020,USA,female,61,1/16/2020,1/16/2020,0,
+2/20/2020,Malaysia,male,40,1/23/2020,1/23/2020,0,
+2/20/2020,Singapore,female,42,NA,NA,0,
+2/20/2020,Singapore,male,41,1/28/2020,1/29/2020,0,fever
+2/20/2020,Singapore,female,40,1/27/2020,1/27/2020,0,
+2/20/2020,Australia,male,43,1/24/2020,1/24/2020,0,
+2/20/2020,UAE,male,41,NA,NA,0,
+2/20/2020,Singapore,female,61,NA,2/12/2020,0,
+2/20/2020,Malaysia,male,41,NA,1/29/2020,0,
+2/20/2020,South Korea,female,40,NA,NA,0,
+2/20/2020,Singapore,female,42,2/2/2020,2/5/2020,0,
+2/20/2020,South Korea,female,42,1/25/2020,NA,0,chills
+2/20/2020,Sri Lanka,female,40,1/25/2020,1/25/2020,0,fever
+2/20/2020,Singapore,female,39,1/30/2020,2/2/2020,0,
+2/20/2020,Vietnam,female,42,1/31/2020,NA,0,fever
+2/20/2020,South Korea,male,43,NA,NA,0,
+2/20/2020,South Korea,female,41,NA,NA,0,
+2/20/2020,South Korea,female,61,NA,NA,0,
+2/20/2020,Singapore,male,61,2/7/2020,2/10/2020,0,
+2/20/2020,Singapore,male,43,2/9/2020,2/10/2020,0,
+2/21/2020,France,female,60,NA,NA,0,
+2/21/2020,Japan,female,60,2/10/2020,NA,0,"fever, cough, sputum"
+2/21/2020,Taiwan,female,60,1/22/2020,NA,0,"fever, cough"
+2/21/2020,Thailand,female,60,NA,NA,0,
+2/21/2020,Australia,female,60,NA,NA,0,
+2/21/2020,Hong Kong,female,60,2/1/2020,2/2/2020,0,
+2/21/2020,Hong Kong,female,60,2/12/2020,2/24/2020,0,cough
+2/21/2020,Phillipines,female,60,NA,NA,0,
+2/21/2020,South Korea,male,60,NA,NA,0,
+2/21/2020,Australia,male,60,NA,NA,0,
+2/21/2020,Cambodia,male,60,1/25/2020,NA,0,"fever, runny nose"
+2/21/2020,China,female,32,1/16/2020,1/20/2020,0,
+2/21/2020,China,male,29,1/23/2020,1/24/2020,0,
+2/21/2020,China,female,23,1/16/2020,1/21/2020,0,
+2/21/2020,France,female,23,NA,NA,0,
+2/21/2020,France,male,60,NA,NA,1,
+2/21/2020,Singapore,female,38,1/24/2020,2/1/2020,0,
+2/21/2020,Malaysia,female,36,NA,NA,0,
+2/21/2020,Singapore,female,47,1/30/2020,1/30/2020,0,fever
+2/21/2020,UAE,female,36,NA,NA,0,
+2/22/2020,Germany,male,60,NA,NA,0,
+2/22/2020,Hong Kong,male,60,1/22/2020,1/30/2020,0,"fever, myalgia, shortness of breath"
+2/22/2020,China,female,59,1/14/2020,NA,0,
+2/22/2020,South Korea,female,59,NA,NA,0,
+2/22/2020,South Korea,female,59,NA,NA,0,
+2/22/2020,South Korea,female,59,NA,NA,0,
+2/22/2020,Hong Kong,female,59,2/24/2020,NA,0,
+2/22/2020,China,male,59,1/16/2020,1/21/2020,0,
+2/22/2020,Hong Kong,male,59,2/2/2020,2/6/2020,0,
+2/22/2020,China,female,58,1/23/2020,1/23/2020,0,
+2/22/2020,France,female,58,NA,NA,0,
+2/22/2020,South Korea,female,58,NA,NA,0,
+2/22/2020,South Korea,female,58,NA,NA,0,
+2/22/2020,South Korea,female,58,NA,NA,0,
+2/22/2020,Hong Kong,female,58,2/4/2020,NA,0,
+2/22/2020,China,male,58,NA,1/14/2020,0,
+2/22/2020,China,male,58,NA,1/24/2020,0,
+2/22/2020,China,male,47,NA,NA,0,
+2/22/2020,Singapore,male,47,NA,NA,0,
+2/22/2020,Singapore,female,38,2/4/2020,2/4/2020,0,
+2/22/2020,South Korea,female,38,NA,NA,0,
+2/22/2020,Hong Kong,female,38,2/10/2020,2/10/2020,0,
+2/22/2020,South Korea,female,23,NA,NA,0,
+2/22/2020,China,male,23,NA,1/22/2020,0,
+2/22/2020,China,male,58,1/3/2020,1/18/2020,1,
+2/22/2020,China,male,58,12/23/2019,1/1/2020,1,
+2/22/2020,South Korea,male,59,NA,NA,1,
+2/22/2020,Singapore,female,47,1/30/2020,1/30/2020,0,fever
+2/22/2020,Malaysia,female,59,1/26/2020,NA,0,fever
+2/22/2020,Singapore,female,58,1/23/2020,2/1/2020,0,
+2/23/2020,South Korea,male,58,NA,NA,0,
+2/23/2020,Germany,male,58,NA,NA,0,
+2/23/2020,Hong Kong,male,58,2/4/2020,2/6/2020,0,"fever, cough"
+2/23/2020,Hong Kong,male,58,NA,NA,0,
+2/23/2020,Hong Kong,male,58,2/8/2020,2/10/2020,0,
+2/23/2020,Spain,male,58,NA,NA,0,
+2/23/2020,Singapore,female,57,2/9/2020,2/10/2020,0,
+2/23/2020,Singapore,female,57,2/9/2020,2/10/2020,0,
+2/23/2020,South Korea,female,57,NA,NA,0,
+2/23/2020,Thailand,female,57,NA,NA,0,
+2/23/2020,USA,female,57,1/29/2020,NA,0,
+2/23/2020,Hong Kong,female,57,NA,NA,0,
+2/23/2020,China,male,38,1/20/2020,NA,0,
+2/23/2020,Spain,female,36,NA,2/24/2020,0,
+2/23/2020,China,male,36,1/18/2020,NA,0,
+2/23/2020,South Korea,female,57,NA,NA,1,
+2/23/2020,South Korea,male,58,NA,NA,1,
+2/23/2020,Phillipines,female,38,NA,NA,0,
+2/24/2020,Hong Kong,female,57,2/8/2020,2/12/2020,0,
+2/24/2020,Hong Kong,female,57,NA,NA,0,
+2/24/2020,China,male,57,1/16/2020,NA,0,
+2/24/2020,China,male,57,1/18/2020,NA,0,
+2/24/2020,China,male,57,1/24/2020,1/24/2020,0,
+2/24/2020,Singapore,male,57,2/6/2020,2/6/2020,0,
+2/24/2020,USA,male,57,1/25/2020,NA,0,"cough, fever"
+2/24/2020,Hong Kong,male,57,NA,NA,0,
+2/24/2020,China,female,56,1/15/2020,1/15/2020,0,
+2/24/2020,China,female,56,1/10/2020,1/15/2020,0,
+2/24/2020,Germany,male,47,2/16/2020,2/24/2020,0,"fever, cough"
+2/24/2020,France,male,36,NA,NA,0,
+2/24/2020,Singapore,male,29,2/12/2020,2/12/2020,0,
+2/24/2020,South Korea,male,29,NA,NA,0,
+2/24/2020,China,male,36,1/6/2020,1/9/2020,1,
+2/24/2020,South Korea,male,57,NA,NA,1,
+2/24/2020,Singapore,female,56,1/24/2020,1/26/2020,0,
+2/25/2020,Hong Kong,female,68,2/19/2020,2/23/2020,0,
+2/25/2020,China,male,68,NA,1/13/2020,0,
+2/25/2020,Singapore,female,56,2/9/2020,2/13/2020,0,
+2/25/2020,South Korea,female,56,NA,NA,0,
+2/25/2020,South Korea,female,56,NA,NA,0,
+2/25/2020,Hong Kong,female,56,2/4/2020,2/4/2020,0,fever
+2/25/2020,China,male,56,1/16/2020,1/20/2020,0,
+2/25/2020,China,male,56,1/10/2020,NA,0,
+2/25/2020,China,male,56,1/19/2020,1/23/2020,0,
+2/25/2020,Hong Kong,male,47,1/20/2020,1/21/2020,0,fever
+2/25/2020,China,male,38,1/22/2020,1/25/2020,0,
+2/25/2020,Hong Kong,male,35,2/19/2020,2/21/2020,0,
+2/25/2020,Italy,male,35,NA,NA,0,
+2/25/2020,Singapore,male,36,1/23/2020,1/24/2020,0,
+2/25/2020,Singapore,female,56,1/24/2020,1/27/2020,0,
+2/26/2020,Hong Kong,male,68,NA,NA,0,
+2/26/2020,Hong Kong,male,68,2/12/2020,2/18/2020,0,
+2/26/2020,Hong Kong,male,68,2/20/2020,2/22/2020,0,
+2/26/2020,Hong Kong,male,56,1/18/2020,1/19/2020,0,
+2/26/2020,Hong Kong,male,56,1/30/2020,2/1/2020,0,"fever, cough, sore throat"
+2/26/2020,China,female,55,1/23/2020,1/23/2020,0,
+2/26/2020,China,female,55,NA,1/24/2020,0,
+2/26/2020,Japan,female,55,1/31/2020,1/31/2020,0,"fever, cough"
+2/26/2020,Japan,female,55,2/4/2020,2/7/2020,0,"vomiting, diarrhea, fever, cough"
+2/26/2020,Japan,female,55,2/7/2020,NA,0,"fever, cough"
+2/26/2020,Japan,female,55,NA,2/17/2020,0,
+2/26/2020,Japan,female,55,2/17/2020,2/17/2020,0,"fever, malaise"
+2/26/2020,Japan,female,55,2/16/2020,2/19/2020,0,"fatigue, joint pain, fever"
+2/26/2020,Japan,female,55,2/17/2020,2/19/2020,0,
+2/26/2020,Japan,female,55,2/15/2020,2/16/2020,0,"fatigue, malaise, headache"
+2/26/2020,Japan,female,55,2/13/2020,2/15/2020,0,"sore throat, cough, fever"
+2/26/2020,Japan,female,46,2/20/2020,2/21/2020,0,fever
+2/26/2020,South Korea,female,46,NA,NA,0,
+2/26/2020,China,male,38,NA,1/23/2020,0,
+2/26/2020,China,female,34,NA,1/23/2020,0,
+2/26/2020,South Korea,female,34,NA,NA,0,
+2/26/2020,South Korea,female,34,NA,NA,0,
+2/26/2020,China,male,27,1/22/2020,1/24/2020,0,
+2/26/2020,South Korea,female,26,NA,NA,0,
+2/26/2020,South Korea,female,26,NA,NA,0,
+2/26/2020,Singapore,male,26,2/11/2020,2/14/2020,0,
+2/26/2020,Hong Kong,male,26,2/20/2020,2/21/2020,0,"fever, cough"
+2/26/2020,Japan,female,25,1/23/2020,1/28/2020,0,fever
+2/26/2020,Japan,female,25,1/20/2020,1/29/2020,0,
+2/26/2020,Thailand,male,68,1/19/2020,1/19/2020,0,fever
+2/26/2020,Canada,male,56,NA,1/23/2020,0,"fever, cough"
+2/26/2020,Singapore,male,56,1/21/2020,1/28/2020,0,
+2/26/2020,Singapore,male,36,1/30/2020,1/30/2020,0,
+2/26/2020,Singapore,male,27,1/21/2020,1/28/2020,0,
+2/26/2020,South Korea,male,56,NA,NA,0,
+2/26/2020,Singapore,male,56,1/25/2020,1/26/2020,0,
+2/26/2020,Malaysia,male,27,2/13/2020,2/13/2020,0,fever
+2/26/2020,Singapore,male,26,2/11/2020,2/11/2020,0,
+2/26/2020,Singapore,male,56,1/24/2020,1/27/2020,0,
+2/26/2020,Japan,female,55,2/10/2020,NA,0,"fever, cough, sputum"
+2/26/2020,Japan,female,55,2/4/2020,NA,0,fatigue
+2/27/2020,Hong Kong,female,67,1/31/2020,1/31/2020,0,"cough, fever, chills"
+2/27/2020,South Korea,male,67,NA,NA,0,
+2/27/2020,China,female,66,1/17/2020,1/17/2020,0,
+2/27/2020,China,female,66,1/17/2020,1/21/2020,0,
+2/27/2020,China,male,66,1/3/2020,1/11/2020,0,
+2/27/2020,Hong Kong,male,66,1/31/2020,2/1/2020,0,
+2/27/2020,Japan,female,65,2/5/2020,2/12/2020,0,"cough, joint pain"
+2/27/2020,Japan,female,65,2/13/2020,2/14/2020,0,
+2/27/2020,Japan,female,65,NA,NA,0,
+2/27/2020,Japan,female,65,NA,NA,0,
+2/27/2020,Japan,female,55,NA,NA,0,
+2/27/2020,Japan,female,55,2/20/2020,NA,0,"mild cough, sputum, throat discomfort"
+2/27/2020,Japan,female,55,NA,NA,0,
+2/27/2020,Japan,female,55,2/23/2020,2/26/2020,0,"throat pain, chills"
+2/27/2020,Singapore,female,55,2/10/2020,2/11/2020,0,
+2/27/2020,Taiwan,female,55,1/11/2020,1/20/2020,0,"fever, cough, shortness of breath"
+2/27/2020,Taiwan,female,55,1/23/2020,1/23/2020,0,fever
+2/27/2020,Taiwan,female,55,1/28/2020,2/3/2020,0,cough
+2/27/2020,Taiwan,female,55,NA,NA,0,
+2/27/2020,Canada,female,55,NA,NA,0,
+2/27/2020,Canada,female,55,NA,NA,0,
+2/27/2020,Hong Kong,female,55,2/1/2020,2/2/2020,0,"sore throat, fever, diarrhea"
+2/27/2020,Hong Kong,female,55,1/30/2020,1/30/2020,0,
+2/27/2020,Hong Kong,female,55,2/17/2020,NA,0,
+2/27/2020,China,male,55,NA,NA,0,
+2/27/2020,France,male,55,NA,NA,0,
+2/27/2020,Japan,male,55,1/29/2020,NA,0,"throat pain, fever"
+2/27/2020,Japan,male,55,1/25/2020,1/27/2020,0,fever
+2/27/2020,Japan,male,55,1/25/2020,1/26/2020,0,fever
+2/27/2020,Japan,male,55,NA,NA,0,
+2/27/2020,Japan,male,55,2/7/2020,2/7/2020,0,"fever, cough"
+2/27/2020,Japan,male,55,2/25/2020,2/25/2020,0,
+2/27/2020,China,female,32,NA,1/24/2020,0,
+2/27/2020,Thailand,male,29,NA,NA,0,
+2/27/2020,Japan,female,25,2/17/2020,2/18/2020,0,"cough, fever, headache, nausea, vomiting, diarrhea"
+2/27/2020,Japan,female,25,NA,NA,0,
+2/27/2020,Japan,female,25,2/18/2020,2/23/2020,0,fever
+2/27/2020,Japan,female,25,2/21/2020,NA,0,"cough, sneeze"
+2/27/2020,Japan,female,25,2/19/2020,2/19/2020,0,"fever, chills, joint pain, heavy head"
+2/27/2020,Japan,female,25,2/19/2020,2/24/2020,0,"sore throat, fever"
+2/27/2020,Taiwan,female,25,2/1/2020,2/4/2020,0,"cough, chest pain"
+2/27/2020,Taiwan,female,25,NA,2/3/2020,0,reflux
+2/27/2020,Australia,female,25,1/27/2020,1/30/2020,0,
+2/27/2020,Canada,female,25,NA,NA,0,
+2/27/2020,Hong Kong,female,25,NA,NA,0,
+2/27/2020,Spain,female,25,NA,NA,0,
+2/27/2020,Sweden,female,25,1/27/2020,NA,0,cough
+2/27/2020,Japan,male,25,1/24/2020,1/27/2020,0,fever
+2/27/2020,Japan,male,25,NA,NA,0,
+2/27/2020,Japan,male,25,2/2/2020,2/10/2020,0,"fever, cough"
+2/27/2020,Japan,male,25,2/7/2020,NA,0,fever
+2/27/2020,Japan,male,25,NA,NA,0,
+2/27/2020,Japan,male,25,2/17/2020,2/18/2020,0,"headache, fever, malaise"
+2/27/2020,Singapore,male,25,2/1/2020,2/10/2020,0,
+2/27/2020,Hong Kong,male,23,NA,NA,0,
+2/27/2020,South Korea,female,22,NA,NA,0,
+2/27/2020,Spain,female,22,NA,NA,0,
+2/27/2020,China,male,22,1/20/2020,1/21/2020,0,
+2/27/2020,South Korea,male,22,NA,NA,0,
+2/27/2020,Hong Kong,male,22,NA,NA,0,
+2/27/2020,China,female,67,1/5/2020,1/12/2020,1,
+2/27/2020,China,male,67,1/10/2020,1/15/2020,1,
+2/27/2020,China,female,66,1/9/2020,1/19/2020,1,
+2/27/2020,China,male,66,1/10/2020,1/16/2020,1,
+2/27/2020,China,male,66,12/22/2019,12/31/2019,1,
+2/27/2020,China,male,66,NA,1/11/2020,1,
+2/27/2020,China,female,65,NA,1/15/2020,1,
+2/27/2020,China,male,55,1/9/2020,1/19/2020,1,
+2/27/2020,Canada,female,25,1/24/2020,1/24/2020,0,
+2/27/2020,Vietnam,male,66,1/17/2020,1/17/2020,0,fever
+2/27/2020,Vietnam,female,55,2/2/2020,NA,0,"fever, headache, runny nose"
+2/27/2020,Singapore,male,66,1/21/2020,1/22/2020,0,
+2/27/2020,Malaysia,female,67,NA,NA,0,
+2/27/2020,Japan,female,25,2/20/2020,2/21/2020,0,"fever, cough, breathlessness"
+2/28/2020,Japan,male,65,2/3/2020,2/7/2020,0,"fever, sore throat"
+2/28/2020,Japan,female,65,2/12/2020,2/12/2020,0,nausea
+2/28/2020,Singapore,male,36,2/14/2020,2/14/2020,0,
+2/28/2020,South Korea,male,36,NA,NA,0,
+2/28/2020,China,male,34,1/11/2020,NA,0,
+2/28/2020,South Korea,male,25,1/30/2020,NA,0,sore body
+2/28/2020,Taiwan,male,25,1/27/2020,NA,0,
+2/28/2020,Taiwan,male,25,NA,NA,0,
+2/28/2020,Thailand,male,25,NA,2/25/2020,0,"fever, cough"
+2/28/2020,USA,male,25,1/29/2020,NA,0,
+2/28/2020,Germany,male,25,NA,2/24/2020,0,
+2/28/2020,Spain,male,22,NA,2/25/2020,0,"sore throat, fever"
+2/28/2020,China,female,21,1/25/2020,1/25/2020,0,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
