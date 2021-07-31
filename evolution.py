@@ -10,7 +10,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 ################ WORLD WIDE ###################
-df = pd.read_csv('./datasets/worldwide-aggregated.csv')
+df = pd.read_csv('./datasets/worldwide-aggregate.csv')
 
 ax = plt.gca()
 df.plot(kind='line',x='Date',y='Confirmed',ax=ax)
